@@ -217,13 +217,25 @@ Students scoring **40 marks or above** are considered **PASS**, otherwise **FAIL
 
 Project screenshots will be added here to demonstrate:
 
-- Main Menu
-- Adding Student Records
-- Viewing Students
-- Searching Students
-- Sorting Students
-- Summary Report
-- Grade Statistics
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### ➕ Add Student
+![Add Student](screenshots/add-student.png)
+
+### 📋 View All Students
+![View Students](screenshots/view-students.png)
+
+### 🔍 Search Student
+![Search Student](screenshots/search-student.png)
+
+### 📊 Summary Report
+![Summary Report](screenshots/summary-report.png)
+
+### 📈 Grade Statistics
+![Grade Statistics](screenshots/grade-statistics.png)
 
 ---
 
